@@ -1,0 +1,97 @@
+#Upper{
+    height: 400px;
+    width: 300px;
+    background-color:white;
+    border: 0.5px solid rgb(185, 180, 180);
+    position: absolute ;
+    top: 10px;
+    left: 550px;
+}
+#lower{
+    height: 70px;
+    width: 300px;
+    background-color:white;
+    border: 0.5px solid rgb(185, 180, 180);
+    position: absolute ;
+    top: 420px;
+    left: 550px;
+    text-align: center;
+    font-size: large;
+
+
+}
+#logo{
+    height: 70px;
+    width: 200px;
+    position: absolute ;
+    top: 30px;
+    left: 50px;
+}
+#user{
+    background-color: rgb(230, 230, 230);
+    height: 30px;
+    width: 220px;
+   position: absolute;
+   top: 120px;
+   left: 35px;
+
+}
+#pswd{
+    background-color: rgb(230, 230, 230);
+    height: 30px;
+    width: 220px;
+    position: absolute;
+    top: 165px;
+    left: 35px;
+   
+
+}
+#login{
+    background-color: rgb(4, 151, 230);
+    height: 30px;
+    width: 228px;
+    position: absolute;
+    top: 215px;
+    left: 33px;
+    border: 2px solid rgb(4, 151, 230);
+    
+}
+#Playstore{
+    height: 40px;
+    width: 110px;
+    position: absolute;
+    top: 520px;
+    left: 580px;
+
+}
+#ms{
+    height: 40px;
+    width: 110px;
+    position: absolute;
+    top: 520px;
+    left: 700px;
+
+   
+}
+h4{
+    position: absolute;
+    top: 475px;
+    left: 650px;
+}
+#insta{
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    top: 5px;
+}
+#instag{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 270px;
+    left: 90px;
+
+}
+body{
+    background-image: url(https://imgs.search.brave.com/aw5_MhmyLvOlFPsULf_E3sH3CtEEeXrhL0UXJnV9els/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMud2FsbHBhcGVy/c2Rlbi5jb20vaW1h/Z2UvZG93bmxvYWQv/aW5zdGFncmFtLWdy/YWRpZW50X2EycG1i/bTJVbVpxYXJhV2tw/SlJxWm1kbHJXZHRi/V1UuanBn);
+}
